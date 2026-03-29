@@ -1,0 +1,308 @@
+{
+  "construction--barrier--temporary": {
+    "x": 0,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "construction--flat--crosswalk-plain": {
+    "x": 32,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "construction--flat--driveway": {
+    "x": 64,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "construction--flat--flat-driveway": {
+    "x": 96,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--arrow--left": {
+    "x": 128,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--arrow--right": {
+    "x": 160,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--arrow--split-left-or-straight": {
+    "x": 192,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--arrow--split-right-or-straight": {
+    "x": 224,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--arrow--straight": {
+    "x": 256,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--crosswalk-zebra": {
+    "x": 288,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--give-way-row": {
+    "x": 320,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--give-way-single": {
+    "x": 352,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--other-marking": {
+    "x": 384,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--stop-line": {
+    "x": 416,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--symbol--bicycle": {
+    "x": 448,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--text": {
+    "x": 480,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--text--other": {
+    "x": 480,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "marking--discrete--text--bus": {
+    "x": 480,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--banner": {
+    "x": 512,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--bench": {
+    "x": 544,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--bike-rack": {
+    "x": 576,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--catch-basin": {
+    "x": 608,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--cctv-camera": {
+    "x": 640,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--fire-hydrant": {
+    "x": 672,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--junction-box": {
+    "x": 704,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--mailbox": {
+    "x": 736,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--manhole": {
+    "x": 768,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--parking-meter": {
+    "x": 800,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--phone-booth": {
+    "x": 832,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--sign--advertisement": {
+    "x": 864,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--sign--information": {
+    "x": 896,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--sign--store": {
+    "x": 928,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--street-light": {
+    "x": 960,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--support--pole": {
+    "x": 992,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "object--support--traffic-sign-frame": {
+    "x": 0,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--support--utility-pole": {
+    "x": 32,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-cone": {
+    "x": 64,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--cyclists": {
+    "x": 96,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--general-horizontal": {
+    "x": 128,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--general-single": {
+    "x": 160,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--general-upright": {
+    "x": 192,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--general-upright-front": {
+    "x": 192,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--general-upright-back": {
+    "x": 192,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--general-upright-side": {
+    "x": 192,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--other": {
+    "x": 224,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--pedestrians": {
+    "x": 256,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--pedestrians-front": {
+    "x": 256,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--pedestrians-back": {
+    "x": 256,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--traffic-light--pedestrians-side": {
+    "x": 256,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--trash-can": {
+    "x": 288,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "object--water-valve": {
+    "x": 320,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  }
+}
